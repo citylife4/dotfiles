@@ -5,6 +5,8 @@
     ~/.bashrc: bashrc
     ~/.bash_logout: bash_logout
     ~/.zshrc: zshrc
+    ~/.config/kitty: config/kitty
+    ~/.config/alacritty: config/alacritty
     ~/.config/i3:
         path: config/i3/
         create: true

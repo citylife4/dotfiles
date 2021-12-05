@@ -73,8 +73,6 @@ ZSH_THEME="agnoster"
 plugins=(
 	git
 	archlinux
-	docker
-	docker-compose
 )
 
 source $ZSH/oh-my-zsh.sh
